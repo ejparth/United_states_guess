@@ -1,0 +1,39 @@
+The states you should remember are:
+Arizona
+Arkansas
+Colorado
+Connecticut
+Delaware
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+New Hampshire
+New Jersey
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Utah
+Vermont
+Virginia
+West Virginia
+Wisconsin
